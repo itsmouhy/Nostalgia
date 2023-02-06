@@ -1,0 +1,43 @@
+.lead{
+    color: #36454F;
+}
+
+p {
+    color: white;
+}
+
+h1.landing-text {
+        color: #36454F;
+        font-size: 500%;
+        font-weight: 700;
+        justify-content: center;
+}
+
+
+
+.cardHoverZoom:hover {
+  transform: scale(1.1);
+}
+
+.cardHoverZoom {
+  transition: transform 0.2s ease;
+}
+
+.cardCommentMovieTitle {
+    text-align: left;
+}
+
+.cardComementMovieText {
+    text-align: left;
+}
+
+.commentModal .modal-content{
+    background-color: #A02626;
+    color: #36454F;
+}
+
+
+
+.jumbotron{
+    background-color: black;
+}
